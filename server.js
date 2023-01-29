@@ -1,4 +1,3 @@
-//hello world
 const express = require('express');
 const cors = require('cors');
 
